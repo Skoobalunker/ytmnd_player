@@ -71,7 +71,7 @@ var aww_cmon = 1;
 
     /**
      * Player/loader preference. Some day, we'll change this when HTML5 is better supported
-     * and the codec wars end.
+     * and the codec wars end.  Which they never will.
      */
 
     this.player_preference = 'flash';
